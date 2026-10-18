@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./banner.png" width="100%" alt="Header Banner" />
-</p>
+<img src="banner.png" width="100%" />
 
 <!-- PRONOUNS / QUICK BADGES -->
 <p align="left">
