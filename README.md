@@ -28,7 +28,7 @@
 
 ---
 
-Hey! I'm **Mohamed Ahmed**, known online as **ruhioki**.
+Hey! I'm **Mohamed Ahmed**, known online as **ruhiok**.
 
 I'm a B.Tech Artificial Intelligence & Data Science student at KPR Institute of Engineering and Technology, India. I'm fascinated by artificial intelligence, GPUs, computer hardware, and the engineering behind high-performance computing.
 
