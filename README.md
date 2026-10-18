@@ -1,3 +1,4 @@
+
 <!--
   ruhioki | Premium GitHub Profile
   Palette: Midnight #0D1117 · Blue #58A6FF · Violet #A78BFA · GPU Green #76B900
@@ -130,18 +131,24 @@ I'm interested in understanding how GPUs power modern AI, how hardware affects p
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ruhioki&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=A78BFA&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics"/>
+<!-- GitHub stats: all text and numerical values in white -->
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruhioki&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Most used languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ruhioki&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=76B900&text_color=FFFFFF&rank_icon=github&ring_color=A78BFA" alt="GitHub statistics"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruhioki&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF" alt="Most used languages"/>
 
 <br/><br/>
 
-<img width="80%" src="https://streak-stats.demolab.com?user=ruhioki&hide_border=true&background=0D1117&ring=A78BFA&fire=76B900&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak"/>
+<!-- Streak stats: current streak, total streak numbers and side numbers in white -->
+
+<img width="80%" src="https://streak-stats.demolab.com?user=ruhioki&hide_border=true&background=0D1117&ring=A78BFA&fire=76B900&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=C9D1D9" alt="GitHub contribution streak"/>
 
 <br/>
 
-<img src="https://img.shields.io/github/followers/ruhioki?style=flat-square&color=58A6FF&labelColor=0D1117&logo=github" alt="GitHub followers"/>
-<img src="https://img.shields.io/github/stars/ruhioki?style=flat-square&color=A78BFA&labelColor=0D1117&logo=github" alt="Repository stars"/>
+<!-- Badge numbers use contrasting dark backgrounds -->
+
+<img src="https://img.shields.io/github/followers/ruhioki?style=flat-square&color=58A6FF&labelColor=0D1117&logo=github&logoColor=FFFFFF" alt="GitHub followers"/>
+<img src="https://img.shields.io/github/stars/ruhioki?style=flat-square&color=A78BFA&labelColor=0D1117&logo=github&logoColor=FFFFFF" alt="Repository stars"/>
 
 </div>
 
@@ -159,10 +166,10 @@ I'm interested in understanding how GPUs power modern AI, how hardware affects p
 <div align="center">
 
 <a href="https://github.com/ruhioki">
-<img src="https://img.shields.io/badge/GitHub-ruhioki-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-ruhioki-181717?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
 </a>
 <a href="https://www.youtube.com/@Lewiesz">
-<img src="https://img.shields.io/badge/YouTube-@Lewiesz-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+<img src="https://img.shields.io/badge/YouTube-@Lewiesz-FF0000?style=for-the-badge&logo=youtube&logoColor=FFFFFF" alt="YouTube"/>
 </a>
 
 <br/><br/>
