@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./NVIDIA-x-Microsoft-Banner.png" width="100%" alt="Header Banner" />
+  <img src="./NVIDIA-x-Microsoft-Banner1.png" width="100%" alt="Header Banner" />
 </p>
 <!--
   ruhioki | Premium GitHub Profile
