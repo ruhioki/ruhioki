@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="./NVIDIA-x-Microsoft-Banner.png" width="100%" alt="Header Banner" />
+</p>
 <!--
   ruhioki | Premium GitHub Profile
   Palette: Midnight #0D1117 · Blue #58A6FF · Violet #A78BFA · GPU Green #76B900
