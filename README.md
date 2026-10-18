@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Neon%20AI%20GPU%20Mountainscape.png" width="100%" alt="Header Banner" />
+  <img src="./Neon%20AI%20GPU%20Mountainscape1.png" width="100%" alt="Header Banner" />
 </p>
 
 <!-- PRONOUNS / QUICK BADGES -->
