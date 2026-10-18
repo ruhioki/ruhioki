@@ -1,6 +1,6 @@
 <!-- HEADER BANNER IMAGE -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ruhioki/ruhioki/main/banner.png" width="100%" alt="Header Banner" />
+  <img src="./banner.png" width="100%" alt="Header Banner" />
 </p>
 
 <!-- PRONOUNS / QUICK BADGES -->
