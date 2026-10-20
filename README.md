@@ -1,183 +1,218 @@
-<p align="center">
-  <img src="./NVIDIA-x-Microsoft-Banner1.png" width="100%" alt="Header Banner" />
-</p>
-<!--
-  ruhioki | Premium GitHub Profile
-  Palette: Midnight #0D1117 · Blue #58A6FF · Violet #A78BFA · GPU Green #76B900
--->
+ <div align="center">
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6D28D9,35:A855F7,70:EC4899,100:FB7185&text=RUHIOKI&fontColor=FFFFFF&fontSize=72&fontAlignY=37&desc=ARTIFICIAL%20INTELLIGENCE%20%7C%20GPU%20ENGINEERING&descSize=15&descAlignY=57&animation=twinkling&stroke=F9A8D4&strokeWidth=1" width="100%" alt="Animated purple and pink RUHIOKI banner"/>
 
-
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2200&pause=650&color=F9A8D4&center=true&vCenter=true&width=850&lines=AI+%26+Machine+Learning+Enthusiast;GPU+Technology+%26+High-Performance+Computing;Future+AI+Engineer;Code.+Create.+Experiment.+Innovate." alt="Animated developer introduction"/>
 
 <br/>
 
-# `ruhioki`
-
-### AI & Data Science · GPU Enthusiast · Aspiring AI Engineer
-
-*Curious mind. Creative builds. One commit at a time.*
-
-<img src="https://img.shields.io/badge/FOCUS-Artificial%20Intelligence-58A6FF?style=for-the-badge&labelColor=0D1117" alt="Artificial Intelligence"/>
-<img src="https://img.shields.io/badge/INTEREST-GPU%20TECHNOLOGY-76B900?style=for-the-badge&labelColor=0D1117" alt="GPU Technology"/>
-<img src="https://img.shields.io/badge/MINDSET-Always%20Learning-A78BFA?style=for-the-badge&labelColor=0D1117" alt="Always learning"/>
-
-[GitHub](https://github.com/ruhioki) · [YouTube](https://www.youtube.com/@Lewiesz) · [Repositories](https://github.com/ruhioki?tab=repositories)
+<a href="https://github.com/ruhioki"><img src="https://img.shields.io/badge/GitHub-ruhioki-0D1117?style=for-the-badge&logo=github&logoColor=76B900" alt="GitHub"/></a>
+<a href="https://www.youtube.com/@Lewiesz"><img src="https://img.shields.io/badge/YouTube-Lewiesz-0D1117?style=for-the-badge&logo=youtube&logoColor=76B900" alt="YouTube"/></a>
+<img src="https://img.shields.io/badge/FOCUS-AI%20%2B%20GPU-0D1117?style=for-the-badge&logo=nvidia&logoColor=76B900" alt="AI and GPU focus"/>
 
 </div>
 
 ---
 
-Hey! I'm **Mohamed Ahmed**, known online as **ruhiok**.
-
-I'm a B.Tech Artificial Intelligence & Data Science student at KPR Institute of Engineering and Technology, India. I'm fascinated by artificial intelligence, GPUs, computer hardware, and the engineering behind high-performance computing.
-
-My long-term ambition is to become an **AI Engineer** and work in the GPU industry, with NVIDIA among my dream destinations.
-
-- 🧠 Exploring AI algorithms, search techniques, and machine learning
-- 🖥️ Interested in GPU architecture, computing performance, and graphics technology
-- 🐍 Developing my programming skills through coursework and hands-on experiments
-- 🎮 Minecraft enthusiast with an interest in map design and game experiences
-- 🎬 Creating and exploring AI-assisted content on YouTube
-- 🌱 Improving my skills one project at a time
-
-> Building knowledge today. Turning ideas into reality tomorrow.
-
-## Tech Stack & Interests
+## `$ whoami`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,matlab,git,github,vscode,linux&theme=dark" alt="Programming languages and development tools"/>
+<img src="https://img.shields.io/badge/IDENTITY-AI%20%26%20DATA%20SCIENCE-0D1117?style=for-the-badge&logo=academia&logoColor=76B900" alt="AI and Data Science"/>
 
-<br/><br/>
+### Mohamed · `ruhioki`
 
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-0D1117?style=flat-square&logo=probot&logoColor=58A6FF" alt="Artificial Intelligence"/>
-<img src="https://img.shields.io/badge/Data%20Science-0D1117?style=flat-square&logo=databricks&logoColor=58A6FF" alt="Data Science"/>
-<img src="https://img.shields.io/badge/NVIDIA%20%26%20GPUs-0D1117?style=flat-square&logo=nvidia&logoColor=76B900" alt="NVIDIA and GPUs"/>
-<img src="https://img.shields.io/badge/Minecraft-0D1117?style=flat-square&logo=minecraft&logoColor=A78BFA" alt="Minecraft"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=900&color=76B900&center=true&vCenter=true&width=700&lines=Curious+mind.+Engineering+mindset.;Exploring+technology+one+project+at+a+time.;Future+AI+Engineer+in+the+making." alt="Animated personal motto"/>
 
 </div>
 
-<sub>My tools and interests reflect my learning journey. I'm continuing to develop practical skills through coursework and experimentation.</sub>
+I'm a B.Tech student specializing in Artificial Intelligence and Data Science, passionate about the technology that powers intelligent systems and high-performance computing.
 
-## Featured Projects
+I love exploring how software, hardware, and AI work together. My goal is to strengthen my foundations, experiment with real projects, and gradually turn what I learn into useful technology.
+
+### `> my_interests`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🚦 AI Traffic in Chennai
+<img src="https://img.shields.io/badge/01-76B900?style=flat-square" alt="01"/> **Artificial Intelligence & Machine Learning**
 
-Exploring search algorithms such as BFS and A* for a traffic-routing simulation inspired by Chennai.
-
-**Focus:** AI · Pathfinding · Python
+Exploring intelligent systems, learning algorithms, model development, and the ideas behind modern AI.
 
 </td>
 <td width="50%" valign="top">
 
-### 🗺️ Minecraft Map Concepts
+<img src="https://img.shields.io/badge/02-A855F7?style=flat-square" alt="02"/> **GPU Technology & High-Performance Computing**
 
-Designing ideas for fast-paced Bedwars and Skywars maps, with creative environments and seasonal themes.
-
-**Focus:** Minecraft · Level Design · Creativity
+Interested in NVIDIA GPUs, parallel computing, GPU architecture, accelerated workloads, and performance optimization.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 AI Content Generator
+<img src="https://img.shields.io/badge/03-EC4899?style=flat-square" alt="03"/> **Python Development & Experiments**
 
-Exploring ways AI can assist with educational content creation and creative workflows.
-
-**Focus:** AI · Automation · Content
+Practicing programming, algorithms, problem-solving, and building small projects to develop practical skills.
 
 </td>
 <td width="50%" valign="top">
 
-### 🎬 AI YouTube Workflow
+<img src="https://img.shields.io/badge/04-76B900?style=flat-square" alt="04"/> **Computer Hardware & Creative Technology**
 
-Experimenting with AI-assisted visuals, narration, and educational video formats for YouTube.
-
-**Channel:** [@Lewiesz](https://www.youtube.com/@Lewiesz)
-
-**Focus:** AI Tools · Video Creation
+Exploring computer components, graphics technology, gaming, and the engineering behind modern computing.
 
 </td>
 </tr>
 </table>
 
-<sub>These are project interests and concepts, not claims that every implementation is complete. Check my repositories for work that is actually published.</sub>
+### `> my_mission`
+
+- Learn AI and machine learning through consistent practice.
+- Develop stronger programming and problem-solving skills.
+- Explore GPUs and high-performance computing.
+- Build meaningful projects and document my progress.
+- Keep learning, experimenting, and improving as a developer.
+
+**My goal:** Become an AI Engineer and explore the future of accelerated computing.
+
+---
+
+## `$ languages --all`
 
 <div align="center">
 
-[![Explore Repositories](https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORIES-161B22?style=for-the-badge&logo=github&logoColor=58A6FF)](https://github.com/ruhioki?tab=repositories)
+### Programming languages
+
+<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" height="52" alt="Python"/></a>
+<a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=c,cpp" height="52" alt="C and C++"/></a>
+<a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" height="52" alt="Java"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript,typescript" height="52" alt="JavaScript and TypeScript"/></a>
+<a href="https://www.rust-lang.org/"><img src="https://skillicons.dev/icons?i=rust" height="52" alt="Rust"/></a>
+<a href="https://go.dev/"><img src="https://skillicons.dev/icons?i=go" height="52" alt="Go"/></a>
+<a href="https://www.ruby-lang.org/"><img src="https://skillicons.dev/icons?i=ruby" height="52" alt="Ruby"/></a>
+<a href="https://www.php.net/"><img src="https://skillicons.dev/icons?i=php" height="52" alt="PHP"/></a>
+<a href="https://kotlinlang.org/"><img src="https://skillicons.dev/icons?i=kotlin" height="52" alt="Kotlin"/></a>
+<a href="https://swift.org/"><img src="https://skillicons.dev/icons?i=swift" height="52" alt="Swift"/></a>
+<a href="https://www.r-project.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="48" alt="R"/></a>
+<a href="https://www.perl.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/perl/perl-original.svg" height="48" alt="Perl"/></a>
+<a href="https://www.lua.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="48" alt="Lua"/></a>
+<a href="https://www.scala-lang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" height="48" alt="Scala"/></a>
+<a href="https://www.haskell.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="48" alt="Haskell"/></a>
+<a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" height="52" alt="Bash"/></a>
+
+### Web development
+
+<img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,react,nextjs,nodejs,express,vue,angular,svelte,graphql" alt="Web technologies"/>
+
+### Data science & AI ecosystem
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,anaconda,opencv" alt="AI and data science tools"/>
+
+<img src="https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=76B900" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=A855F7" alt="Pandas"/>
+<img src="https://img.shields.io/badge/Jupyter-0D1117?style=for-the-badge&logo=jupyter&logoColor=F37726" alt="Jupyter"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-0D1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E" alt="Hugging Face"/>
+
+### GPU & accelerated computing
+
+<img src="https://img.shields.io/badge/NVIDIA-0D1117?style=for-the-badge&logo=nvidia&logoColor=76B900" alt="NVIDIA"/>
+<img src="https://img.shields.io/badge/CUDA-0D1117?style=for-the-badge&logo=nvidia&logoColor=76B900" alt="CUDA"/>
+<img src="https://img.shields.io/badge/AMD-0D1117?style=for-the-badge&logo=amd&logoColor=ED1C24" alt="AMD"/>
+<img src="https://img.shields.io/badge/OpenCL-0D1117?style=for-the-badge&logo=khronosgroup&logoColor=A855F7" alt="OpenCL"/>
+
+### Databases & infrastructure
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase,supabase,docker,kubernetes,linux,ubuntu,git,github,githubactions,vercel,aws,gcp,azure" alt="Databases and infrastructure"/>
+
+### Developer tools & design
+
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,pycharm,vim,figma,blender,postman,cmake,arduino" alt="Developer tools and creative software"/>
 
 </div>
 
-## My Setup
+<sub>Logo wall: a broad overview of programming languages and technologies. Logos indicate areas of interest and are not intended to claim proficiency in every listed technology.</sub>
 
-| Component | Specifications |
-|:--|:--|
-| 💻 Laptop | Acer Nitro 5 AN515-58 |
-| 🟢 GPU | NVIDIA GeForce RTX 3050 Laptop GPU · 4 GB VRAM |
-| 🔵 CPU | Intel Core i5 · 12th Gen |
-| 🧠 RAM | 16 GB |
-| 💾 Storage | Approximately 1.4 TB SSD |
-| 🖥️ Display | Full HD · 144 Hz |
-| ⚙️ Features | MUX switch · Killer DoubleShot Pro |
+---
 
-I'm interested in understanding how GPUs power modern AI, how hardware affects performance, and how software can make better use of computing resources.
-
-## GitHub Activity
-
-<div align="center">
-
-<!-- GitHub stats: all text and numerical values in white -->
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ruhioki&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=76B900&text_color=FFFFFF&rank_icon=github&ring_color=A78BFA" alt="GitHub statistics"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruhioki&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF" alt="Most used languages"/>
-
-<br/><br/>
-
-<!-- Streak stats: current streak, total streak numbers and side numbers in white -->
-
-<img width="80%" src="https://streak-stats.demolab.com?user=ruhioki&hide_border=true&background=0D1117&ring=A78BFA&fire=76B900&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=C9D1D9" alt="GitHub contribution streak"/>
-
-<br/>
-
-<!-- Badge numbers use contrasting dark backgrounds -->
-
-<img src="https://img.shields.io/github/followers/ruhioki?style=flat-square&color=58A6FF&labelColor=0D1117&logo=github&logoColor=FFFFFF" alt="GitHub followers"/>
-<img src="https://img.shields.io/github/stars/ruhioki?style=flat-square&color=A78BFA&labelColor=0D1117&logo=github&logoColor=FFFFFF" alt="Repository stars"/>
-
-</div>
-
-<sub>Statistics are supplied by third-party services and depend on available GitHub data. Language rankings reflect detected repository languages, not necessarily proficiency.</sub>
-
-## Beyond the Code
-
-- 🎮 **Gaming:** Minecraft, Bedwars, Skywars, and map-building concepts
-- 🎥 **Content creation:** Exploring educational videos and AI-assisted creative workflows
-- 💪 **Personal growth:** Fitness, consistency, communication, and lifelong learning
-- 🚀 **Future vision:** Building practical AI skills and understanding GPU technology
-
-## Connect With Me
+## `$ github_stats`
 
 <div align="center">
 
 <a href="https://github.com/ruhioki">
-<img src="https://img.shields.io/badge/GitHub-ruhioki-181717?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ruhioki&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=E879F9&text_color=FFFFFF&icon_color=76B900&ring_color=EC4899" alt="GitHub statistics"/>
 </a>
-<a href="https://www.youtube.com/@Lewiesz">
-<img src="https://img.shields.io/badge/YouTube-@Lewiesz-FF0000?style=for-the-badge&logo=youtube&logoColor=FFFFFF" alt="YouTube"/>
+<a href="https://github.com/ruhioki?tab=repositories">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruhioki&layout=compact&langs_count=10&hide_border=true&bg_color=0D1117&title_color=76B900&text_color=FFFFFF" alt="Most-used programming languages"/>
 </a>
 
 <br/><br/>
 
-### `Stay curious. Keep building. Think beyond limits.`
-
-<sub>Designed with 💙 and a little GPU obsession by ruhioki.</sub>
+<img width="75%" src="https://streak-stats.demolab.com/?user=ruhioki&hide_border=true&background=0D1117&ring=A855F7&fire=EC4899&currStreakLabel=E879F9&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" alt="GitHub contribution streak"/>
 
 </div>
+
+---
+
+## `$ contribution_activity`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ruhioki&bg_color=0D1117&color=E879F9&line=76B900&point=EC4899&area=true&area_color=30105E&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="GitHub activity graph"/>
+
+</div>
+
+---
+
+## `$ featured_projects`
+
+<div align="center">
+
+<a href="https://github.com/ruhioki?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE-ALL%20REPOSITORIES-0D1117?style=for-the-badge&logo=github&logoColor=76B900" alt="Explore repositories"/>
+</a>
+
+</div>
+
+### My development roadmap
+
+| Area | Direction |
+|---|---|
+| AI Lab | Machine learning and intelligent systems |
+| GPU Lab | GPU architecture and accelerated computing |
+| Data Lab | Data analysis and visualization |
+| Dev Lab | Python experiments and software projects |
+| Creative Lab | Gaming, graphics, and creative technology |
+
+---
+
+## `$ beyond_the_code`
+
+I enjoy Minecraft, gaming technology, creative digital content, and discovering how things work behind the scenes.
+
+<div align="center">
+
+<a href="https://www.youtube.com/@Lewiesz"><img src="https://img.shields.io/badge/YouTube-@Lewiesz-0D1117?style=for-the-badge&logo=youtube&logoColor=76B900" alt="Lewiesz YouTube channel"/></a>
+<a href="https://github.com/ruhioki?tab=repositories"><img src="https://img.shields.io/badge/GitHub-My%20Projects-0D1117?style=for-the-badge&logo=github&logoColor=E879F9" alt="My projects"/></a>
+
+</div>
+
+---
+
+## `$ connect`
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2500&pause=800&color=E879F9&center=true&vCenter=true&width=650&lines=Think+deeply.;Code+creatively.;Build+with+purpose.;Keep+leveling+up." alt="Animated sign-off"/>
+
+<br/>
+
+**Thanks for visiting my corner of GitHub.**
+
+<sub>Crafted with 💜 purple, 🩷 pink, and 💚 GPU green.</sub>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:FB7185,45:EC4899,75:A855F7,100:6D28D9" width="100%" alt="Purple and pink footer"/>
+
