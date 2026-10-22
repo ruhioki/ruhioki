@@ -1,0 +1,139 @@
+# VisionForge AI
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,45:A855F7,100:76B900&text=VisionForge%20AI&fontColor=FFFFFF&fontSize=54&fontAlignY=38&desc=Teaching%20Machines%20to%20Understand%20Images&descAlignY=59&descSize=15" width="100%" alt="VisionForge AI banner"/>
+</p>
+
+<p align="center">
+  <strong>Turning pixels into information, and ideas into intelligent software.</strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Computer_Vision-Exploring-A855F7?style=for-the-badge" alt="Computer Vision"/>
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-Learning-76B900?style=for-the-badge" alt="Artificial Intelligence"/>
+  <img src="https://img.shields.io/badge/Status-In_Development-EC4899?style=for-the-badge" alt="In development"/>
+</p>
+
+---
+
+## The Idea
+
+Computers can store images, but how can software extract useful information from them?
+
+That question is the starting point of VisionForge AI.
+
+VisionForge AI is a Python project exploring computer vision, image processing, and machine learning. The goal is to build a practical understanding of how computers process visual information, starting with fundamental image operations and gradually moving toward AI-powered recognition.
+
+Instead of treating artificial intelligence as a black box, I want to understand the technology behind it, experiment with real inputs, and document what works.
+
+**My mission is simple: learn the fundamentals, build working features, and grow toward intelligent systems that solve real problems.**
+
+## Project Goals
+
+- Strengthen my Python programming skills.
+- Understand how digital images are represented and processed.
+- Explore computer vision techniques through practical experiments.
+- Learn how machine learning models interpret visual data.
+- Build a modular, maintainable codebase.
+- Document experiments, limitations, and results honestly.
+
+## Planned Features
+
+| Feature | Purpose |
+|---|---|
+| Image loading and validation | Read supported image files safely |
+| Image resizing | Prepare images for further processing |
+| Color analysis | Explore image colors and basic statistics |
+| Edge detection | Identify prominent boundaries in images |
+| Image filtering | Experiment with smoothing and visual transformations |
+| AI image classification | Explore predicting image categories using a trained model |
+| Object detection | Investigate identifying and locating objects in images |
+| Results visualization | Present outputs in a clear, understandable format |
+
+Features will be added progressively. Each item remains a goal until its implementation is working and documented.
+
+## Technology Stack
+
+- **Python:** Main programming language.
+- **OpenCV:** Planned image processing and computer vision library.
+- **NumPy:** Planned numerical and array operations.
+- **PyTorch:** A possible framework for machine learning experiments.
+- **Matplotlib:** Planned visualization of images and experiment results.
+- **Git and GitHub:** Version control, documentation, and project history.
+
+Libraries will be added when needed rather than included without a purpose.
+
+## Development Roadmap
+
+- [ ] Set up a reproducible Python environment.
+- [ ] Create the initial project structure.
+- [ ] Implement image loading and input validation.
+- [ ] Add basic image transformations.
+- [ ] Experiment with color analysis and edge detection.
+- [ ] Document example inputs and outputs.
+- [ ] Explore a pretrained image classification model.
+- [ ] Evaluate model predictions using suitable examples.
+- [ ] Investigate object detection as a later extension.
+- [ ] Improve testing, error handling, and documentation.
+
+## Planned Project Structure
+
+```text
+VisionForge-AI/
+├── visionforge/
+│   ├── __init__.py
+│   ├── image_loader.py
+│   ├── processing.py
+│   └── visualization.py
+├── examples/
+├── tests/
+├── docs/
+├── requirements.txt
+├── .gitignore
+├── LICENSE
+└── README.md
+```
+
+The structure will evolve as working features are implemented.
+
+## Learning Through Experiments
+
+An important part of this project is recording not only successful results but also limitations.
+
+For each significant experiment, I aim to document:
+
+- The problem being explored.
+- The technique or model being tested.
+- The input data and relevant configuration.
+- The observed results.
+- Any limitations, errors, or lessons learned.
+
+This approach will help me understand why a technique works, when it may fail, and how to improve the implementation.
+
+## Why VisionForge AI?
+
+As an Artificial Intelligence and Data Science student, I want to connect what I learn academically with practical software development.
+
+VisionForge AI gives me a place to explore computer vision in a structured way, improve my Python skills, and gradually work toward more advanced machine learning applications.
+
+The long-term ambition is to develop a project that demonstrates both technical understanding and the ability to build, test, and explain working software.
+
+## Developer
+
+**Mohamed | [@ruhioki](https://github.com/ruhioki)**
+
+Artificial Intelligence and Data Science student interested in AI engineering, GPU technology, performance optimization, and software development.
+
+I'm building projects to strengthen my fundamentals, explore new technologies, and develop the skills needed to work on real-world AI systems.
+
+---
+
+<p align="center">
+  <strong>VisionForge AI</strong><br/>
+  Explore the pixels. Understand the patterns. Build the intelligence.
+</p>
+
+<p align="center">
+  <sub>One experiment at a time.</sub>
+</p>
