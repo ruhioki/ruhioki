@@ -208,68 +208,58 @@ PRACTICAL ENGINEERING
 
 ## Featured Projects
 
-The sections below are designed for real repositories. Replace the example links with your actual projects when they are ready.
-
 <table>
+  <tr>
+    <td width="50%" valign="top">
+
+### [VisionForge AI](https://github.com/ruhioki/VisionForge-AI)
+
+**Area:** Python · Computer Vision
+
+A learning-focused OpenCV toolkit for image processing, contour analysis, batch processing, image-quality metrics, benchmarking, and optional ONNX classification.
+
+**Stack:** Python, OpenCV, NumPy, pytest, optional ONNX Runtime.
+
+    </td>
+    <td width="50%" valign="top">
+
+### [ClientPulse](https://github.com/ruhioki/ClientPulse)
+
+**Area:** Java · Minecraft Fabric
+
+A client-side Minecraft mod project focused on learning Fabric development and building a maintainable foundation for future performance and customization features.
+
+**Stack:** Java, Fabric, Gradle.
+
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
 
 ### AI Traffic in Chennai
 
-**Area:** Artificial Intelligence
+**Area:** Search Algorithms · AI
 
-An academic project concept exploring how search algorithms can help represent traffic routes and navigation decisions.
+An academic project concept for exploring how search algorithms can represent traffic routes and navigation decisions. It is a learning direction, not a completed public repository.
 
-**Potential technologies:** Python, graph algorithms, visualization.
-
-<a href="https://github.com/ruhioki?tab=repositories">Explore repositories →</a>
+**Potential stack:** Python, graph algorithms, visualization.
 
     </td>
     <td width="50%" valign="top">
 
 ### GPU Computing Lab
 
-**Area:** Computer Architecture
+**Area:** GPU Architecture · Performance
 
-A future project space for documenting GPU concepts, performance experiments, and accelerated computing fundamentals.
+A planned project direction for documenting GPU concepts and running reproducible computing experiments. No completed lab repository is linked yet.
 
-**Potential technologies:** Python, benchmarking, GPU tools.
-
-<a href="https://github.com/ruhioki?tab=repositories">Explore repositories →</a>
-
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-### AI Learning Projects
-
-**Area:** AI and Machine Learning
-
-A place to organize small experiments, algorithm implementations, and learning notes as the portfolio grows.
-
-**Potential technologies:** Python, mathematics, data processing.
-
-<a href="https://github.com/ruhioki?tab=repositories">Explore repositories →</a>
-
-    </td>
-    <td width="50%" valign="top">
-
-### Creative Coding
-
-**Area:** Creative Technology
-
-A space for experiments involving programming, interactive ideas, gaming, and digital projects.
-
-**Potential technologies:** Depends on the project.
-
-<a href="https://github.com/ruhioki?tab=repositories">Explore repositories →</a>
+**Potential stack:** Python, benchmarking, GPU tools.
 
     </td>
   </tr>
 </table>
 
-<sub>These are portfolio directions and project concepts. They are not presented as completed repositories.</sub>
+The linked repositories are real projects. Items described as concepts or planned directions are labeled accordingly so the portfolio stays accurate.
 
 ---
 
