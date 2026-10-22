@@ -216,7 +216,7 @@ PRACTICAL ENGINEERING
 
 **Area:** Python · Computer Vision
 
-A learning-focused OpenCV toolkit for image processing, contour analysis, batch processing, image-quality metrics, benchmarking, and optional ONNX classification.
+A learning-focused OpenCV toolkit for image processing, document scanning, contour analysis, batch processing, image-quality metrics, benchmarking, and optional ONNX classification. It also includes a clean source-bundle generator.
 
 **Stack:** Python, OpenCV, NumPy, pytest, optional ONNX Runtime.
 
@@ -227,7 +227,7 @@ A learning-focused OpenCV toolkit for image processing, contour analysis, batch 
 
 **Area:** Java · Minecraft Fabric
 
-A client-side Minecraft mod project focused on learning Fabric development and building a maintainable foundation for future performance and customization features.
+A Java and Fabric client-side starter scaffold for Minecraft. Performance HUD, feature management, and settings are planned features, not yet implemented.
 
 **Stack:** Java, Fabric, Gradle.
 
@@ -305,7 +305,7 @@ The linked repositories are real projects. Items described as concepts or planne
 
 </div>
 
-<sub>The snake animation requires the GitHub Actions workflow provided separately below. It will not appear until the workflow generates and publishes the SVG.</sub>
+<sub>A scheduled GitHub Actions workflow in this repository generates these SVGs and publishes them to the `output` branch.</sub>
 
 ---
 
