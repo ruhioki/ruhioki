@@ -1,0 +1,164 @@
+#  ClientPulse
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:76B900,100:A78BFA&text=ClientPulse&fontColor=FFFFFF&fontSize=64&fontAlignY=38&desc=From%20Java%20Code%20to%20Minecraft%20Client%20Development&descAlignY=58&descSize=16" width="100%" alt="ClientPulse banner"/>
+</p>
+
+<p align="center">
+  <strong>Think like a developer. Build like a creator. Optimize every detail.</strong>
+</p>
+
+<p align="center">
+  A Minecraft Java development project built around learning, experimentation, performance, and the ambition to create something meaningful.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Platform-Minecraft-62A64B?style=for-the-badge&logo=minecraft&logoColor=white" alt="Minecraft"/>
+  <img src="https://img.shields.io/badge/Mod_Loader-Fabric-2196F3?style=for-the-badge" alt="Fabric"/>
+  <img src="https://img.shields.io/badge/Focus-Performance-76B900?style=for-the-badge" alt="Performance"/>
+</p>
+
+<p align="center">
+  <a href="#vision">Vision</a> ·
+  <a href="#features">Features</a> ·
+  <a href="#roadmap">Roadmap</a> ·
+  <a href="#technology">Technology</a> ·
+  <a href="#developer">Developer</a>
+</p>
+
+---
+
+## The Vision
+
+**Every great project starts with an idea. ClientPulse is where I turn mine into code.**
+
+Minecraft has been more than a game to me. Its clients, performance optimizations, user interfaces, and customization possibilities have inspired me to look beyond playing and start understanding how the software itself works.
+
+ClientPulse is my journey into Minecraft client-side development using Java and Fabric.
+
+My goal is to grow beyond writing programs that simply work. I want to learn how to design maintainable systems, build smooth user experiences, investigate performance problems, and develop features that feel purposeful.
+
+I'm building this project as a practical portfolio to demonstrate my growth as a Java developer, with the long-term ambition of pursuing opportunities in Minecraft client development, including at Lunar Client.
+
+**This isn't about pretending to know everything. It's about learning, building, improving, and proving what I can do.**
+
+## What I'm Building
+
+ClientPulse is intended to grow into a modular Minecraft client-side project with a focus on useful in-game information, customization, and clean implementation.
+
+### Planned Features
+
+| Feature | Goal |
+|---|---|
+| Performance HUD | Display useful FPS and client performance information |
+| Custom HUD | Allow on-screen elements to be positioned and configured |
+| Feature management | Organize client-side features in a modular system |
+| Keybind support | Make supported features easier to control |
+| Settings interface | Provide a central place for configuration |
+| Performance-minded design | Keep implementations practical and avoid unnecessary work |
+| Clean architecture | Make future features easier to maintain and extend |
+
+These are planned goals, not claims that the features already exist. Each will be marked as implemented after it works and has been tested.
+
+## The Development Mindset
+
+I want this repository to represent more than the final result. It should show how I approach software development.
+
+- **Learn deeply:** Understand the Java concepts and APIs behind each feature.
+- **Build deliberately:** Prefer clear architecture over rushed, tangled code.
+- **Optimize intelligently:** Measure and investigate before making performance claims.
+- **Test honestly:** Check changes in the development environment and fix problems.
+- **Document progress:** Record meaningful milestones, decisions, and lessons.
+- **Keep improving:** Treat bugs and setbacks as part of becoming a better developer.
+
+## Roadmap
+
+The roadmap will evolve as the project develops. Items should only be marked complete when the work has actually been finished.
+
+- [ ] Set up and document a reproducible Java and Fabric development environment
+- [ ] Create the initial working Minecraft development client
+- [ ] Implement and test the first client-side feature
+- [ ] Establish a clean feature and configuration architecture
+- [ ] Add useful performance information
+- [ ] Develop customizable HUD elements
+- [ ] Implement feature settings and keybinds
+- [ ] Test compatibility and investigate performance issues
+- [ ] Improve documentation and release preparation
+- [ ] Publish a stable, demonstrable portfolio build
+
+## Technology
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,gradle,idea,git,github" alt="Java, Gradle, IntelliJ IDEA, Git and GitHub technology icons"/>
+</p>
+
+- **Java** for application logic and object-oriented programming.
+- **Fabric** for Minecraft client-side mod development.
+- **Gradle** for builds and dependency management.
+- **IntelliJ IDEA** as the primary development environment.
+- **Git and GitHub** for version control, documentation, and tracking progress.
+
+Target Minecraft and Java versions, together with compatible Fabric Loader, Fabric API, and Gradle versions, will be recorded in the actual project configuration.
+
+## Project Structure
+
+The codebase will be organized around maintainability as features are introduced.
+
+```text
+ClientPulse/
+├── src/
+│   └── main/
+│       ├── java/           # Java source code
+│       └── resources/      # Mod metadata and assets
+├── gradle/                 # Gradle wrapper files
+├── build.gradle
+├── gradle.properties
+├── settings.gradle
+├── gradlew
+├── gradlew.bat
+├── README.md
+├── LICENSE
+└── .gitignore
+```
+
+The structure may change as the implementation grows.
+
+## What Success Looks Like
+
+Success isn't just a long list of features.
+
+It means being able to explain the code, justify design decisions, reproduce the development environment, investigate bugs, and demonstrate working software.
+
+By developing ClientPulse, I want to build evidence of practical Java skills and a stronger understanding of Minecraft client development. The repository will document the actual work rather than simply list technologies or ambitions.
+
+## Developer
+
+**Mohamed | `ruhioki`**
+
+I'm a second-year Artificial Intelligence and Data Science student with a strong interest in Java programming, GPUs, performance optimization, and Minecraft technology.
+
+I'm exploring how my programming skills can grow into real software engineering work. ClientPulse is one step in that journey.
+
+<p>
+  <a href="https://github.com/ruhioki">
+    <img src="https://img.shields.io/badge/GitHub-ruhioki-181717?style=for-the-badge&logo=github" alt="GitHub profile"/>
+  </a>
+</p>
+
+## Follow the Journey
+
+If you're interested in Minecraft development, Java, client-side features, or performance-focused programming, feel free to follow the repository as it grows.
+
+Stars and constructive feedback are appreciated. More importantly, I hope the project becomes a record of consistent learning and meaningful progress.
+
+---
+
+<p align="center">
+  <strong>CLIENTPULSE</strong><br/>
+  Learn the fundamentals. Build the features. Optimize the experience.
+</p>
+
+<p align="center">
+  <sub>One project. One improvement at a time.</sub>
+</p>
