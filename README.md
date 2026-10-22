@@ -303,20 +303,6 @@ A space for experiments involving programming, interactive ideas, gaming, and di
 
 ---
 
-## Contribution Activity
-
-<div align="center">
-
-  <img
-    width="100%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=ruhioki&bg_color=0D1117&color=E6EDF3&line=A855F7&point=EC4899&area=true&area_color=A855F7&hide_border=true&custom_title=Contribution%20Activity"
-    alt="GitHub contribution activity graph"
-  />
-
-</div>
-
----
-
 ## Contribution Snake
 
 <div align="center">
