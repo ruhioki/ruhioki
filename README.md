@@ -225,11 +225,11 @@ A learning-focused OpenCV toolkit for image processing, document scanning, conto
 
 ### [ClientPulse](https://github.com/ruhioki/ClientPulse)
 
-**Area:** Java · Minecraft Fabric
+**Area:** Java · Minecraft Forge
 
-A Java and Fabric client-side starter scaffold for Minecraft. Performance HUD, feature management, and settings are planned features, not yet implemented.
+A Java client project for Minecraft 1.8.9 Forge, with a searchable Click GUI, HUD modules, configurable cosmetics, and reusable settings and animation foundations.
 
-**Stack:** Java, Fabric, Gradle.
+**Stack:** Java 8, Minecraft Forge 1.8.9, Gradle.
 
     </td>
   </tr>
