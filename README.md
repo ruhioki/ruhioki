@@ -220,9 +220,9 @@ PRACTICAL ENGINEERING
 
 **Area:** Python · Computer Vision
 
-A learning-focused OpenCV toolkit for image processing, document scanning, contour analysis, batch processing, image-quality metrics, benchmarking, and optional ONNX classification. It also includes a clean source-bundle generator.
+A Python/OpenCV toolkit with an optional interactive Streamlit workbench for image uploads, grayscale conversion, Canny edge detection, blur, sharpening, thresholding, RGB histograms, image details, and PNG downloads. The repository also includes its CLI and automated tests.
 
-**Stack:** Python, OpenCV, NumPy, pytest, optional ONNX Runtime.
+**Stack:** Python, OpenCV, NumPy, Streamlit, Pillow, pytest.
 
     </td>
     <td width="50%" valign="top">
@@ -231,9 +231,9 @@ A learning-focused OpenCV toolkit for image processing, document scanning, conto
 
 **Area:** Java · Minecraft Fabric
 
-A Java and Fabric client-side starter scaffold for Minecraft. Performance HUD, feature management, and settings are planned features, not yet implemented.
+A multi-version Minecraft Java client project with shared module/settings foundations, HUD features, and a searchable settings GUI across configured Fabric and Forge targets. Automated builds pass for the configured targets, while some in-game compatibility checks remain pending.
 
-**Stack:** Java, Fabric, Gradle.
+**Stack:** Java, Fabric, Forge, Gradle.
 
     </td>
   </tr>
