@@ -26,6 +26,10 @@
 
   <br/><br/>
 
+  <a href="https://github.com/ruhioki/VisionForge-AI/actions/workflows/tests.yml"><img src="https://github.com/ruhioki/VisionForge-AI/actions/workflows/tests.yml/badge.svg?branch=main" alt="VisionForge tests"/></a>
+  <a href="https://github.com/ruhioki/ClientPulse/actions/workflows/build.yml"><img src="https://github.com/ruhioki/ClientPulse/actions/workflows/build.yml/badge.svg?branch=main" alt="ClientPulse build"/></a>
+  <br/><br/>
+
   <!-- SOCIAL LINKS -->
   <a href="https://github.com/ruhioki">
     <img src="https://img.shields.io/badge/GitHub-Explore%20Repositories-161B22?style=for-the-badge&logo=github&logoColor=E6EDF3" alt="GitHub repositories"/>
